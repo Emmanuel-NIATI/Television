@@ -8,6 +8,6 @@
     mc:Ignorable="d">
 
     <Grid Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
-
+        <WebView x:Name="myWebView" Source="http://www.francetelevisions.fr/programme-tv"/>
     </Grid>
 </Page>
